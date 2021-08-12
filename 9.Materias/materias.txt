@@ -1,0 +1,7 @@
+Crear una funcion que al pasarle como parametro la materia nos devuelva:
+-El profesor asignado.
+-El nombre de todos los alumnos.
+
+Crear una funcio que nos diga en cuantas clases esta Cofla.
+Informar en las clases en la que esta y los profesores de cada una.
+

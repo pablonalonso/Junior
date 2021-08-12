@@ -1,0 +1,18 @@
+Cofla esta sufriendo un poco, ya que a pesar de que cree contar con el 90% 
+de asistencias y tener un promedio mayor de 7/10 , no cree ser capaz de 
+realizar los trabajos ya que necesita dividir las tareas que hara semanalmente.
+Cofla debe trabajar 8 horas por dia durante dos semanas entre las cuales tiene que:
+-24 horas estudiar.
+-24 horas hacer trabajos practicos.
+-56 horas trabajar.
+-8 horas hacer las cosas de la casa.
+    -Organizar las actividades diariamente.
+    -Utilizar la consola para organizarlo.
+    -Cada tarea no debe superar las 4 horas.
+
+30 minutos las cosas de la casa
+100 minutos de trabajo
+10 minutos de descanso
+100 minutos de estudiar
+240 minutos de trabajar
+

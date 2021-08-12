@@ -1,0 +1,4 @@
+-Crear una funcion que pregunte a Cofla en que materia se quiere inscribir.
+-Si ya hay 20 alumnos anotados en la materia, negarle la inscripcion.
+-Si hay menos de 20 alumnos, inscribir a Cofla, y añadirlos a la lista de alumnos.
+

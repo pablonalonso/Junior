@@ -1,0 +1,5 @@
+-Crear un sistema que ayude a Cofla a decidir cual app descargar.
+-La informacion de los instaladores debe contener la cantidad de descargas,
+la puntuacion y el peso .
+-Las apps se deben poder instalar, abrir, cerrar y desinstalar.
+

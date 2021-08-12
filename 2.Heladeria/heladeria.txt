@@ -1,0 +1,19 @@
+Tres jovenes quieren comprar el helados.
+
+Crear las siguientes soluciones: 
+-Pedirle que ingresen el monto y mostrar el helado mas caro que les alcanza.
+-Si les alcanza dos helados, mostrar los dos, si es tres, mostrar los tres.
+-Informar el vuelto.
+
+Datos: 
+Swaggy: $7 ---- A Swaggy le alcanza para un Kalise y un Magnum. Su vuelto es: $1
+Elab Kid: $5--- A Elab Kid le alcanza para un Nestle. Su vuelto es: $0.3
+Calem: $4 ----- A Calem le alcanza para un Frigo. Su vuelto es: $0.5
+
+Los precios de los helados son los siguientes:
+
+Ben & Jerry’s: $2
+Frigo: $3.5
+Nestlé: $4.7
+Kalise: $6
+Magnum: $6

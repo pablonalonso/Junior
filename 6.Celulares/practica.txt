@@ -1,0 +1,3 @@
+-Crear un sistema que muestre las caracteristicas de los tres celulares que Cofla quiere comprar.
+-Cada uno debe tener color, peso, resolucion de pantalla, camara y memoria RAM.
+-Deben poder prender,  reiniciar, tomar fotos y grabar. 

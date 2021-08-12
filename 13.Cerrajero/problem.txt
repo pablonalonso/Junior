@@ -1,0 +1,4 @@
+Problema A.
+-Indicarle las 20 llaves posibles con sus respectivas imagenes y Cofla debe seleccionar cual llave usar.
+-Una vez seleccionada enviar os datos al servidor y que otro programador se encargue.
+

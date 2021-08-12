@@ -1,0 +1,12 @@
+Crear un sistema que nos permita:
+-registrar los alumnos que estan presentes
+-los que estan ausentes
+
+Pasado los 30 dias mostrar de cada alumno:
+-La cantidad de PRESENTES.
+-La cantidad de AUSENTES.
+
+Se debe de contar con al menos el 10% de asistencia para aprobar
+Si no posee el 10%, informar que el alumno esta reprobado por inasistencia.
+
+

@@ -1,0 +1,8 @@
+Problema A.
+-Realizar una calculadora  que ademas de sumar, multipicar, dividir y restar ahora
+se agreguen tres funciones mas:
+-Potencia.
+-Raiz Cuadrada.
+-Raiz Cubica.
+
+

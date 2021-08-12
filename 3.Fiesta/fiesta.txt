@@ -1,0 +1,2 @@
+Crear un sistema en el que se deje pasar a la fiesta solo a mayores de edad. 
+La primer persona que entra despues de las 2AM no paga.

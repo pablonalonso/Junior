@@ -1,0 +1,14 @@
+Cofla termino el primer semestre y no sabe si va a aprobar o no las materias. 
+Para aprobar las materias necesitara:
+-Contar con al menos el 70% de asistencias.
+-El promedio por materias debe ser  de al menos 7 / 10.
+-Debe tener al menos el 75% de los trabajos  practicos entregados
+    >Solicitar los datos y decirle si aprueba o no.
+    >Mostrar todo esto con colores reprentativos en consola.
+    >Todo esto estructurado como tabla.
+
+
+
+
+
+
